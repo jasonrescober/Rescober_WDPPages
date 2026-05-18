@@ -1,2 +1,0 @@
-var myInput = prompt("Enter a number");
-alert(myInput==2? "your choice is number two" :"Input again");
